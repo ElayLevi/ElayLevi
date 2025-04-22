@@ -4,10 +4,10 @@
 
 ## About Me
 - 🎓 **2nd-year Software Engineering student** at SCE (Sami Shamoon College of Engineering).  
-- 💻 Specializing in **C++** and **Python**, with a focus on **Object-Oriented Programming** and building impactful projects.  
+- 💻 Specializing in **C++** and **Java**, with a focus on **Advanced Object-Oriented Programming** and building impactful projects.  
 - 🌟 Aspiring to develop innovative software solutions that address real-world challenges.  
 - 🔐 Looking to expand my knowledge in **cybersecurity** and **information security** in the future.
-- 🏀 Member of the college basketball team; passionate about sports including soccer and tennis.  
+- 🏀 Member and Manager of the college basketball team; passionate about sports including soccer and tennis.  
 
 ## My Projects
 - 🛠️ **[AllJobs Management System](https://github.com/ElayLevi/AllJobs-Management-System-Project)**  
@@ -15,9 +15,9 @@
   **Technologies:** C++, File Management, Object-Oriented Design  
 
 ## Skills
-- **Languages:** C++, Python  
+- **Languages:** C++, Java  
 - **Specialties:** Object-Oriented Programming, Problem Solving, File Management  
-- **Tools:** Git, Visual Studio, CLion, Pycharm
+- **Tools:** Git, Visual Studio, CLion, IntelliJ IDEA 
 
 ## Interests
 - **Sports:** Basketball, Soccer, Tennis  
